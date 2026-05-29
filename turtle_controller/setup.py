@@ -22,6 +22,7 @@ setup(
             'pytest',
         ],
     },
+    
     entry_points={
         'console_scripts': [
             'draw_square = turtle_controller.draw_square:main',
